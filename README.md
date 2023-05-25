@@ -1,5 +1,5 @@
 # JSA-KRTOD
-This repository contains the baseline code for SereTOD Track2 and the implementation of JSA-KRTOD. For some reasons, the original dataset is not available now, and the code is open-sourced for reference. If you are interesting in reproducing the code, contact the author, and the original dataset can be gained under some condition.
+This repository contains the baseline code for SereTOD Track2 and the implementation of JSA-KRTOD. For some reasons, the original dataset is not available for public now, and the code is open-sourced for reference. If you are interesting in reproducing the code, contact the author, and the original dataset can be gained under some condition.
 ## Requirement
 After you create an environment with `python 3.7`, the following commands are recommended to install the required packages
 * pip install torch==1.7.1+cu110
